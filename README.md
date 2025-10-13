@@ -4,5 +4,4 @@
 
 ## Installation
  Öncelikle projeyi clonelayın.
-'''bash
-git clone https://github.com/Burak011/kodluyoruzilkrepo
+'''git clone https://github.com/Burak011/kodluyoruzilkrepo'''
